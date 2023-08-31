@@ -1,5 +1,9 @@
 # io-analysis-india-2022
 
+![R](https://img.shields.io/badge/r-blue?style=for-the-badge&logo=r)
+![Economics](https://img.shields.io/badge/economics-input--output_analysis-yellow?style=for-the-badge)
+
+
 ## Analysis of Input-Output Relationships in the Indian Economy
  An analysis of the input-output relationships between various sectors of the Indian economy using 2022 tables from the Asian Development Bank's input-output table for India.
 
@@ -9,4 +13,4 @@
 Available at: https://data.adb.org/dataset/india-input-output-economic-indicators
 
 ## Acknowledgements
-I would like to sincerely thank Prof. Dr. Ranajoy Bhattacharyya of the Indian Institute of Foreign Trade (IIFT) for his contribution in instilling the spirit of enquiry in this specific field in me including building the basis for my exploration in the field. I also extend my gratitude to my IIFT classmate Unmesha Chattopadhyay for her support.
+I would like to sincerely thank Prof. Dr. Ranajoy Bhattacharyya of the Indian Institute of Foreign Trade (IIFT) for his contribution in instilling the spirit of enquiry in this specific field in me including building the basis for my exploration in the field. I also extend my gratitude to my IIFT classmates Unmesha and Aahana for their support.
