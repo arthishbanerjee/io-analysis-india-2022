@@ -9,4 +9,4 @@
 Available at: https://data.adb.org/dataset/india-input-output-economic-indicators
 
 ## Acknowledgements
-I would like to sincerely thank Prof. Dr. Ranajoy Bhattacharyya of the Indian Institute of Foreign Trade (IIFT) for his contribution in instilling the spirit of enquiry in this specific field in us Unmesha Chattopadhyay, my classmate in the MA Economics program at IIFT, for her encouragement and help in refining my theoretical understanding of the models which formed the basis and bedrock of the empirical exercise.
+I would like to sincerely thank Prof. Dr. Ranajoy Bhattacharyya of the Indian Institute of Foreign Trade (IIFT) for his contribution in instilling the spirit of enquiry in this specific field in me including building the basis for my exploration in the field. I also extend my gratitude to my IIFT classmate Unmesha Chattopadhyay for her support.
